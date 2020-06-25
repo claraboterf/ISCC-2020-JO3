@@ -1,0 +1,51 @@
+body{
+    background: aliceblue;
+    padding-left: 10%;
+    padding-right: 10%;
+  
+}
+/*begin*/
+h1{
+    color: 8B0000;
+    background-color: black;
+    opacity: 20%;
+    font-family: "nasalization-rg";
+    font-size: 45px;
+    text-decoration: underline;
+    margin:10px
+}
+/*end*/
+/*begin*/
+h2{
+ 
+    color:rgb(178, 34, 34) ;
+    font-size: 25; 
+    text-decoration: underline;
+
+}
+/*end*/
+h1,h2{
+    text-align: center;
+}
+
+cite{
+
+     border: 2px solid black;
+     display: block;
+ 
+
+}
+
+p,li{
+    margin-left:5%;
+}
+  #colorGreen li{
+      color:green;
+}
+ #greenYellow {
+     color: greenyellow;
+ }
+   
+
+
+
